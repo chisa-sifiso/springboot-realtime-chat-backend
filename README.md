@@ -61,4 +61,4 @@
 <p>This project is licensed under the <b>MIT License</b>.</p>
 
 <h2>📧 Contact</h2>
-<p>For any inquiries or issues, feel free to contact <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
+<p>For any inquiries or issues, feel free to contact <a href="mailto:>sifisovinjwa1@gmail.com">sifisovinjwa1@gmail.com</a>.</p>
