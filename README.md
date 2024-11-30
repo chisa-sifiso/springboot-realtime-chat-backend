@@ -47,10 +47,7 @@
 │   │   │       ├── config        # WebSocket configuration
 │   │   │       ├── controller    # Chat message controller
 │   │   │       ├── model         # Chat message model
-│   │   │       └── Application.java # Main application class
-│   │   ├── resources
-│   │       ├── static            # Frontend files (index.html)
-│   │       └── application.properties
+│   │   │       └── Application.java # Main application class    
 └── pom.xml                       # Maven dependencies
 </pre>
 
