@@ -57,6 +57,7 @@
 
 <h2>📜 License</h2>
 <p>This project is licensed under the <b>MIT License</b>.</p>
-
+<h2>Developer</h2>
+<h1>Sifiso Vinjwa</h1>
 <h2>📧 Contact</h2>
 <p>For any inquiries or issues, feel free to contact <a href="mailto:>sifisovinjwa1@gmail.com">sifisovinjwa1@gmail.com</a>.</p>
