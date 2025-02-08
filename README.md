@@ -53,7 +53,7 @@
 
 <h2>👩‍💻 Contributing</h2>
 <p>Contributions are welcome! Please fork this repository and submit a pull request.</p>
-<h1>developed by Sifiso Vinjwa</h1>
+
 
 <h2>📜 License</h2>
 <p>This project is licensed under the <b>MIT License</b>.</p>
